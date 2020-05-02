@@ -1,5 +1,5 @@
 # Docker Project to do the operations in one click on DOCKER
-    Hey, this project is designed on docker technology. In this project docker is used with python3 . This project is very usefull for those who know the docker technology . This project is only run in redhat linux operating system.
+ Hey, this project is designed on docker technology. In this project docker is used with python3 . This project is very usefull for those who know the docker technology . This project is only run in redhat linux operating system.
     With the help of this project one can install the docker in its redhat linux and use it easily.
     
 # Requirements to Run this project:
